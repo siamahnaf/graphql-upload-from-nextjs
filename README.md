@@ -2,7 +2,7 @@
 ## File upload or post request in graphql upload next js application
 In this video I show how to sent file to graphql api from e next js application. In the previous video I show how to handle the file getting from frontend application. I am using axios.
 
-## Youtube Channe
+## Youtube Channel
 <img src="https://lh3.googleusercontent.com/d/1TahrzXTmSlN2KDtcZ3lamaJjOLmjqGAM" width="100">
 https://www.youtube.com/channel/UCenJabtn62vOv0ZDMIWYYkQ
 
